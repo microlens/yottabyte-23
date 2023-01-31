@@ -1,5 +1,5 @@
 # Yottabyte 2023
 
-This repository includes videos by Retro90s.
+This repository includes videos by [@Microlens](https://github.com/microlens).
 
 ![banner](yottabyte.jpg)
